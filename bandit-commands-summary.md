@@ -77,6 +77,7 @@ openssl s_client -quiet -connect hostname:port
 
 ## 📁 File & Directory Operations
 
+
 ### ls
 
 **Purpose:** List directories and files.
@@ -91,7 +92,14 @@ ls -al
 * `-l` shows permissions and ownership
 
 ---
+### cd
 
+**Purpose:** change directory.
+
+```
+cd directoryname
+```
+---
 ### mv
 
 **Purpose:** Move or rename files.
