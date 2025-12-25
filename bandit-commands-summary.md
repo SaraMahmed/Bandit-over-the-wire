@@ -327,4 +327,12 @@ bunzip2 filename.bz2
 ```
 tar -xf filename.tar
 ```
+---
+### nmap
+
+**Purpose:** Port scanning.
+
+```
+nmap hostname -p portnumber or range
+```
 
